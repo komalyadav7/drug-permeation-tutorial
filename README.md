@@ -4,7 +4,7 @@ This tutorial aims to study the permeation of a drug molecule (acetaminophen) th
 1. Assemble the system (drug + POPC bilayer + water) using CHARMM-GUI
 2. Energy Minimization of the system using GROMACS
 3. NVT and NPT equilibration of the system using GROMACS
-4. Production run for the stable system using GROMACS
+4. Production run of the stable system using GROMACS
 5. TTMetaD simulation using GROMACS + PLUMED
 6. Analyzing the free energy surface and computing the free energy profile (FEP) for the drug permeation through the lipid bilayer using PLUMED and zero-temperature string method
    <p align="center">
