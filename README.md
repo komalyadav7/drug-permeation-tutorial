@@ -6,6 +6,8 @@ This tutorial aims to study the permeation of a drug molecule (acetaminophen) th
 3. NVT and NPT equilibration of the system using GROMACS
 4. Production run for the stable system using GROMACS
 5. TTMetaD simulation using GROMACS + PLUMED
-6. Analyzing the free energy surface and computing the free energy profile (FEP) for the drug permeation through the lipid bilayer using PLUMED and zero-temperature string method 
+6. Analyzing the free energy surface and computing the free energy profile (FEP) for the drug permeation through the lipid bilayer using PLUMED and zero-temperature string method
+   <img width="1053" height="1024" alt="drug_popc" src="https://github.com/user-attachments/assets/8004b941-4826-44d1-a3ca-53bb776a3d4b" />
+
 
 
