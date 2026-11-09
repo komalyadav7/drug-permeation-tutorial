@@ -1,5 +1,5 @@
 # Drug permeation through POPC bilayer
-This tutorial aims to study the permeation of a drug molecule (acetaminophen) through a POPC lipid bilayer using transition tempered metadynamics (TTMetaD) simulation. The complete system (drug + POPC bilayer + water) are assembled using CHARMM-GUI. We have used CHARMM36m force field parameters to calculate the forces and hence study the time evolution of the system. The study consists of the following steps:
+This tutorial aims to study the permeation of a drug molecule (acetaminophen) through a POPC lipid bilayer using transition tempered metadynamics (TTMetaD) simulation through my learnings. The complete system (drug + POPC bilayer + water) are assembled using CHARMM-GUI. We have used CHARMM36m force field parameters to calculate the forces and hence study the time evolution of the system. The study consists of the following steps:
 
 1. Assemble the system (drug + POPC bilayer + water) using CHARMM-GUI
 2. Energy Minimization of the system using GROMACS
